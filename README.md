@@ -3,6 +3,7 @@
 1.mvn clean package docker:build -e -DskipTests
 
 [root@localhost docker-helloworld]# docker images
+
 REPOSITORY                            TAG                 IMAGE ID            CREATED             SIZE
 flash8627/docker-spring-boot          latest              17b6aab0f77a        5 minutes ago       181MB
 
