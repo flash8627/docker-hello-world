@@ -41,7 +41,7 @@ hs_err_pid*
 .classpath
 .project
 .settings
-#.gitignore
+.gitignore
 *.bak
 *.iml
 *.iws
